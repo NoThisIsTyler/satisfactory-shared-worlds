@@ -1,11 +1,28 @@
 {
-  "generation": 0,
+  "generation": 1,
   "handoff": null,
   "head": null,
   "lastSession": null,
-  "lease": null,
+  "lease": {
+    "acquiredAt": "2026-10-28T21:40:22.404Z",
+    "baseRevision": 0,
+    "expiresAt": "2026-10-28T21:41:07.404Z",
+    "generation": 1,
+    "holder": {
+      "displayName": "NoThisIsTyler",
+      "installId": "9DA2C8DD-4F64-DCE2-7498-7998075CF615",
+      "platform": "None",
+      "playerId": "76561198364516209"
+    },
+    "hostReady": false,
+    "join": null,
+    "nonce": "fc7f7d7426d29d273b3af0f0942941fa",
+    "phase": "PREPARING",
+    "players": [],
+    "renewedAt": "2026-10-28T21:40:22.404Z"
+  },
   "schemaVersion": 2,
-  "stateVersion": 1,
-  "updatedAt": "2026-10-28T21:40:18.856Z",
+  "stateVersion": 2,
+  "updatedAt": "2026-10-28T21:40:22.404Z",
   "worldId": "sharing-is-caring-5b853f"
 }
