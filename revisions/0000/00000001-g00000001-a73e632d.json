@@ -1,0 +1,19 @@
+{
+  "createdAt": "2026-10-28T21:40:24.956Z",
+  "gameBuild": "513885",
+  "generation": 1,
+  "mapName": "SkyblockLevel",
+  "modVersion": "",
+  "number": 1,
+  "object": "a73e632db44740d14e09616ccf159b813f0ed68aa9d8676f4cf023c2911949bd",
+  "playDurationSeconds": 300,
+  "previousRevision": 0,
+  "reason": "import",
+  "size": 35130,
+  "uploader": {
+    "displayName": "NoThisIsTyler",
+    "installId": "9DA2C8DD-4F64-DCE2-7498-7998075CF615",
+    "platform": "None",
+    "playerId": "76561198364516209"
+  }
+}

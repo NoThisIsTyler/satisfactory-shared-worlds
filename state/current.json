@@ -1,12 +1,30 @@
 {
   "generation": 1,
   "handoff": null,
-  "head": null,
+  "head": {
+    "createdAt": "2026-10-28T21:40:24.956Z",
+    "gameBuild": "513885",
+    "generation": 1,
+    "mapName": "SkyblockLevel",
+    "modVersion": "",
+    "number": 1,
+    "object": "a73e632db44740d14e09616ccf159b813f0ed68aa9d8676f4cf023c2911949bd",
+    "playDurationSeconds": 300,
+    "previousRevision": 0,
+    "reason": "import",
+    "size": 35130,
+    "uploader": {
+      "displayName": "NoThisIsTyler",
+      "installId": "9DA2C8DD-4F64-DCE2-7498-7998075CF615",
+      "platform": "None",
+      "playerId": "76561198364516209"
+    }
+  },
   "lastSession": null,
   "lease": {
     "acquiredAt": "2026-10-28T21:40:22.404Z",
-    "baseRevision": 0,
-    "expiresAt": "2026-10-28T21:41:07.404Z",
+    "baseRevision": 1,
+    "expiresAt": "2026-10-28T21:41:13.553Z",
     "generation": 1,
     "holder": {
       "displayName": "NoThisIsTyler",
@@ -19,10 +37,10 @@
     "nonce": "fc7f7d7426d29d273b3af0f0942941fa",
     "phase": "PREPARING",
     "players": [],
-    "renewedAt": "2026-10-28T21:40:22.404Z"
+    "renewedAt": "2026-10-28T21:40:28.553Z"
   },
   "schemaVersion": 2,
-  "stateVersion": 2,
-  "updatedAt": "2026-10-28T21:40:22.404Z",
+  "stateVersion": 3,
+  "updatedAt": "2026-10-28T21:40:28.553Z",
   "worldId": "sharing-is-caring-5b853f"
 }
