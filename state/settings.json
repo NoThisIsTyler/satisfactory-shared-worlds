@@ -1,0 +1,9 @@
+{
+  "hostMigration": true,
+  "keepRevisions": 5,
+  "maxPlayers": 4,
+  "name": "Sharing is caring",
+  "peerRecovery": true,
+  "preferredHosts": [],
+  "syncIntervalMinutes": 10
+}
